@@ -1,1 +1,1 @@
-{ "version": "0.0.1","code": {"api_w":"123pro.vin", "api_m":"b29.baby", "hotupdate_url": "https://update.123pro.vin/"} }
+{ "version": "0.0.1","code": "0d18ceb939b8d58180fb61e6b21d60618f02e1e0b08444794e57ea970c36a282cfe512261e301224ae417a54cb2cd8b06fbdb26351336baebbbdc0a4cce15e7bebb67f6cbed937464dbbabc4bff0449864159707952344096f5accf8ecdbbddd" }
