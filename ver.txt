@@ -1,1 +1,1 @@
-{ "version": "0.0.1","code": {"api_w":"123pro.vin", "api_m":"b29.baby", "hotupdate_url": "https://update.123pro.vin/"} }
+{ "version": "0.0.1","code": {"api_w":"123pro.vin", "api_m":"b29.baby", "hotupdate_url": "https://update.123pro.vin/", "sp_fb": "https://www.facebook.com/123pro.vin", "sp_telegram": "https://t.me/cskh123provin",} }
